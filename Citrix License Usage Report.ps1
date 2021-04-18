@@ -1,5 +1,10 @@
-# Run Get-WmiObject -class "Citrix_GT_License_Pool" -Namespace "root\CitrixLicensing" command to see the PLD value in your license server.
-# Change the product name as per your licenses in line 27
+<#
+Run Get-WmiObject -class "Citrix_GT_License_Pool" -Namespace "root\CitrixLicensing" command to see the PLD value in your license server.
+Change the product name as per your licenses in line 27
+
+Change PLD value as per your environment license server edition in line number 21,22,23,24. 
+Run Get-WmiObject -class "Citrix_GT_License_Pool" -Namespace "root\CitrixLicensing" command on elevated powershell window on your license server to get that data.
+#>
 
 Start-Transcript -Path C:\Temp\LicenseScriptLogs\Logs\CitrixLicenseScriptLogs-$(Get-Date -Format yyyyMMdd-HHmm).txt -NoClobber 
 function Get-CtxLicStats { 
