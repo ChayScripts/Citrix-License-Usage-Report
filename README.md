@@ -31,11 +31,11 @@ Citrix Admin team.
 
 ### Built With
 
-* [PowerShell](https://en.wikipedia.org/wiki/PowerShell) - Powershell
+* **Powershell** - [PowerShell](https://en.wikipedia.org/wiki/PowerShell)
 
 ### Authors
 
-**Chay** - [ChayScripts](https://github.com/ChayScripts)
+* **Chay** - [ChayScripts](https://github.com/ChayScripts)
 
 ### Contributing
 
