@@ -35,7 +35,7 @@ Citrix Admin team.
 
 ### Authors
 
-* **Tech Guy** - [TechScripts](https://github.com/TechScripts)
+***Chay** - [ChayScripts](https://github.com/ChayScripts)
 
 ### Contributing
 
