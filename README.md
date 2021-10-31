@@ -35,7 +35,7 @@ Citrix Admin team.
 
 ### Authors
 
-***Chay** - [ChayScripts](https://github.com/ChayScripts)
+**Chay** - [ChayScripts](https://github.com/ChayScripts)
 
 ### Contributing
 
